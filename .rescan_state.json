@@ -3,10 +3,16 @@
     {
       "cve_id": "CVE-2025-9373",
       "first_seen": "2026-10-14T11:19:14.063450+00:00",
-      "scan_history": [],
-      "scan_count": 0,
-      "next_scan": "2026-10-14T12:19:14.063450+00:00",
-      "status": "active"
+      "scan_history": [
+        {
+          "time": "2026-10-14T16:39:52.420415+00:00",
+          "result": "has_poc",
+          "scan_number": 1
+        }
+      ],
+      "scan_count": 1,
+      "next_scan": null,
+      "status": "completed"
     },
     {
       "cve_id": "CVE-2026-0893",
