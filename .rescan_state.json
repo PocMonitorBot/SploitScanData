@@ -1,6 +1,46 @@
 {
   "rescan_queue": [
     {
+      "cve_id": "CVE-2026-0318",
+      "first_seen": "2026-10-14T20:31:34.271096+00:00",
+      "scan_history": [],
+      "scan_count": 0,
+      "next_scan": "2026-10-14T21:31:34.271096+00:00",
+      "status": "active"
+    },
+    {
+      "cve_id": "CVE-2026-0319",
+      "first_seen": "2026-10-14T20:31:35.298355+00:00",
+      "scan_history": [],
+      "scan_count": 0,
+      "next_scan": "2026-10-14T21:31:35.298355+00:00",
+      "status": "active"
+    },
+    {
+      "cve_id": "CVE-2026-0320",
+      "first_seen": "2026-10-14T20:31:36.421338+00:00",
+      "scan_history": [],
+      "scan_count": 0,
+      "next_scan": "2026-10-14T21:31:36.421338+00:00",
+      "status": "active"
+    },
+    {
+      "cve_id": "CVE-2026-0321",
+      "first_seen": "2026-10-14T20:31:37.570639+00:00",
+      "scan_history": [],
+      "scan_count": 0,
+      "next_scan": "2026-10-14T21:31:37.570639+00:00",
+      "status": "active"
+    },
+    {
+      "cve_id": "CVE-2026-0322",
+      "first_seen": "2026-10-14T20:31:38.613750+00:00",
+      "scan_history": [],
+      "scan_count": 0,
+      "next_scan": "2026-10-14T21:31:38.613750+00:00",
+      "status": "active"
+    },
+    {
       "cve_id": "CVE-2025-9373",
       "first_seen": "2026-10-14T11:19:14.063450+00:00",
       "scan_history": [
