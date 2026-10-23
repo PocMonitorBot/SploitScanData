@@ -1,6 +1,6 @@
 {
-  "exploitdb_commit_sha": "ea5ad3433d6a167def20ae2cd81508bfe69b1b55",
-  "exploitdb_last_max_id": 52703,
+  "exploitdb_commit_sha": "3408a245521d6f2115a5dd6a905e8705fc28c4a3",
+  "exploitdb_last_max_id": 52704,
   "nuclei_known_cves": [
     "CVE-2000-0114",
     "CVE-2000-0760",
@@ -4103,6 +4103,7 @@
     "CVE-2026-1890",
     "CVE-2026-18937",
     "CVE-2026-18963",
+    "CVE-2026-19089",
     "CVE-2026-19092",
     "CVE-2026-19478",
     "CVE-2026-19598",
@@ -4298,6 +4299,7 @@
     "CVE-2026-42271",
     "CVE-2026-42281",
     "CVE-2026-42461",
+    "CVE-2026-42564",
     "CVE-2026-42569",
     "CVE-2026-4257",
     "CVE-2026-42589",
@@ -4433,6 +4435,7 @@
     "CVE-2026-65761",
     "CVE-2026-65919",
     "CVE-2026-6639",
+    "CVE-2026-66914",
     "CVE-2026-67208",
     "CVE-2026-6826",
     "CVE-2026-6854",
@@ -15198,8 +15201,8 @@
     "CVE-2025-26466",
     "CVE-2025-26794"
   ],
-  "last_updated": "2026-10-22T22:39:12.941512+00:00",
-  "nuclei_commit_sha": "6722bd206d879f15e4b19e71c96fdaaee604def5",
+  "last_updated": "2026-10-23T01:47:17.334106+00:00",
+  "nuclei_commit_sha": "4d99a98b716e9622af3caf3dd8e00f992349fe46",
   "metasploit_commit_sha": "da8f9b3bbc6471932a25d2cafc23998aa9348e8e",
   "zeroday_commit_sha": "fd72a6f55a806b351291ff5b2508a1c2b331ef60"
 }
