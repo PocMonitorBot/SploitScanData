@@ -18,5 +18,15 @@
       "cisa_kev": 0,
       "epss_spike": 0
     }
+  },
+  "monitor-cvelist": {
+    "timestamp": "2026-10-23T07:55:06.807672+00:00",
+    "new_cves": 3,
+    "modified_refreshed": 0,
+    "rescanned": 0,
+    "processed": 3,
+    "skipped": 0,
+    "failed": 0,
+    "last_commit": "6ca7cabddc9ff62deaaf3c3c77ef9ade3f463bf3"
   }
 }
