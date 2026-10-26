@@ -90,9 +90,23 @@
     {
       "cve_id": "CVE-2026-4316",
       "first_seen": "2026-10-26T11:54:35.745661+00:00",
+      "scan_history": [
+        {
+          "time": "2026-10-26T17:56:45.304592+00:00",
+          "result": "no_poc",
+          "scan_number": 1
+        }
+      ],
+      "scan_count": 1,
+      "next_scan": "2026-10-26T17:54:35.745661+00:00",
+      "status": "active"
+    },
+    {
+      "cve_id": "CVE-2026-3322",
+      "first_seen": "2026-10-26T17:56:44.198660+00:00",
       "scan_history": [],
       "scan_count": 0,
-      "next_scan": "2026-10-26T12:54:35.745661+00:00",
+      "next_scan": "2026-10-26T18:56:44.198660+00:00",
       "status": "active"
     },
     {
