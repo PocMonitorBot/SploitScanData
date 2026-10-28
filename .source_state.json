@@ -7756,6 +7756,7 @@
     "CVE-2026-66066",
     "CVE-2026-6826",
     "CVE-2026-75604",
+    "CVE-2026-76443",
     "CVE-2026-77647",
     "CVE-2026-7873",
     "CVE-2026-81578",
@@ -15228,9 +15229,9 @@
     "CVE-2025-26466",
     "CVE-2025-26794"
   ],
-  "last_updated": "2026-10-28T00:36:34.967151+00:00",
+  "last_updated": "2026-10-28T02:53:54.691877+00:00",
   "nuclei_commit_sha": "8bca7f7c61ea4f834f10476adc3b720ac6e2b668",
-  "metasploit_commit_sha": "5c9a3d81aa5117e6ded895dde3ba8f6ae8204abd",
+  "metasploit_commit_sha": "7639f89ba6a5c5271ed103945c167d2b59e31e8e",
   "zeroday_commit_sha": "fd72a6f55a806b351291ff5b2508a1c2b331ef60",
   "cisa_kev_known_cves": [
     "CVE-2002-0367",
