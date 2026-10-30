@@ -47,10 +47,15 @@
           "time": "2026-10-28T16:25:20.370375+00:00",
           "result": "no_poc",
           "scan_number": 3
+        },
+        {
+          "time": "2026-10-30T16:56:06.965837+00:00",
+          "result": "no_poc",
+          "scan_number": 4
         }
       ],
-      "scan_count": 3,
-      "next_scan": "2026-10-30T13:48:31.979961+00:00",
+      "scan_count": 4,
+      "next_scan": "2026-11-03T13:48:31.979961+00:00",
       "status": "active"
     },
     {
@@ -186,10 +191,15 @@
           "time": "2026-10-29T23:49:34.828928+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-10-30T16:56:10.655540+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-10-30T14:49:48.724753+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-01T14:49:48.724753+00:00",
       "status": "active"
     },
     {
@@ -205,10 +215,15 @@
           "time": "2026-10-29T23:49:36.698362+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-10-30T16:56:12.380110+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-10-30T14:49:52.292778+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-01T14:49:52.292778+00:00",
       "status": "active"
     },
     {
@@ -224,10 +239,15 @@
           "time": "2026-10-29T23:49:38.520105+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-10-30T16:56:14.344813+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-10-30T14:49:56.644040+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-01T14:49:56.644040+00:00",
       "status": "active"
     },
     {
@@ -243,10 +263,15 @@
           "time": "2026-10-29T23:49:40.561171+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-10-30T16:56:16.315444+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-10-30T14:50:00.474638+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-01T14:50:00.474638+00:00",
       "status": "active"
     },
     {
@@ -262,10 +287,15 @@
           "time": "2026-10-29T23:49:42.553986+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-10-30T16:56:18.337160+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-10-30T14:50:04.525743+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-01T14:50:04.525743+00:00",
       "status": "active"
     },
     {
@@ -281,10 +311,15 @@
           "time": "2026-10-29T23:49:53.006389+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-10-30T16:56:20.258394+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-10-30T14:50:08.817861+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-01T14:50:08.817861+00:00",
       "status": "active"
     },
     {
@@ -404,9 +439,15 @@
     {
       "cve_id": "CVE-2026-5461",
       "first_seen": "2026-10-30T10:38:21.790345+00:00",
-      "scan_history": [],
-      "scan_count": 0,
-      "next_scan": "2026-10-30T11:38:21.790345+00:00",
+      "scan_history": [
+        {
+          "time": "2026-10-30T16:56:09.035554+00:00",
+          "result": "no_poc",
+          "scan_number": 1
+        }
+      ],
+      "scan_count": 1,
+      "next_scan": "2026-10-30T16:38:21.790345+00:00",
       "status": "active"
     },
     {
