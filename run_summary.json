@@ -5,17 +5,17 @@
   "updated": 7,
   "failed": 0,
   "monitor-poc": {
-    "timestamp": "2026-10-29T23:26:28.134694+00:00",
+    "timestamp": "2026-10-30T02:45:06.234722+00:00",
     "changed_cves": 7,
     "updated": 7,
     "failed": 0,
-    "github_search_cves": 2,
+    "github_search_cves": 0,
     "trigger_breakdown": {
-      "poc_monitor": 5,
+      "poc_monitor": 7,
       "exploitdb": 0,
       "nuclei": 0,
       "metasploit": 0,
-      "cisa_kev": 2,
+      "cisa_kev": 0,
       "epss_spike": 0
     }
   },
