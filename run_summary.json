@@ -5,18 +5,18 @@
   "updated": 7,
   "failed": 0,
   "monitor-poc": {
-    "timestamp": "2026-10-30T16:46:48.368024+00:00",
-    "changed_cves": 37,
-    "updated": 37,
+    "timestamp": "2026-10-30T21:39:42.323589+00:00",
+    "changed_cves": 18,
+    "updated": 18,
     "failed": 0,
-    "github_search_cves": 1,
+    "github_search_cves": 2,
     "trigger_breakdown": {
-      "poc_monitor": 36,
+      "poc_monitor": 15,
       "exploitdb": 0,
       "nuclei": 0,
-      "metasploit": 0,
-      "cisa_kev": 0,
-      "epss_spike": 1
+      "metasploit": 1,
+      "cisa_kev": 2,
+      "epss_spike": 0
     }
   },
   "monitor-cvelist": {
