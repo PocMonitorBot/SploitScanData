@@ -493,10 +493,15 @@
           "time": "2026-10-31T01:18:14.425446+00:00",
           "result": "no_poc",
           "scan_number": 1
+        },
+        {
+          "time": "2026-10-31T07:48:00.309190+00:00",
+          "result": "no_poc",
+          "scan_number": 2
         }
       ],
-      "scan_count": 1,
-      "next_scan": "2026-10-31T03:19:32.688221+00:00",
+      "scan_count": 2,
+      "next_scan": "2026-10-31T21:19:32.688221+00:00",
       "status": "active"
     },
     {
@@ -507,10 +512,15 @@
           "time": "2026-10-31T01:18:22.053865+00:00",
           "result": "no_poc",
           "scan_number": 1
+        },
+        {
+          "time": "2026-10-31T07:48:02.381207+00:00",
+          "result": "no_poc",
+          "scan_number": 2
         }
       ],
-      "scan_count": 1,
-      "next_scan": "2026-10-31T03:19:53.288868+00:00",
+      "scan_count": 2,
+      "next_scan": "2026-10-31T21:19:53.288868+00:00",
       "status": "active"
     },
     {
