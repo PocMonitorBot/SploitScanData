@@ -134,10 +134,15 @@
           "time": "2026-10-29T20:01:13.833109+00:00",
           "result": "no_poc",
           "scan_number": 3
+        },
+        {
+          "time": "2026-10-31T18:59:01.410305+00:00",
+          "result": "no_poc",
+          "scan_number": 4
         }
       ],
-      "scan_count": 3,
-      "next_scan": "2026-10-31T16:25:24.374243+00:00",
+      "scan_count": 4,
+      "next_scan": "2026-11-04T16:25:24.374243+00:00",
       "status": "active"
     },
     {
@@ -541,9 +546,15 @@
     {
       "cve_id": "CVE-2025-9462",
       "first_seen": "2026-10-31T14:05:25.769981+00:00",
-      "scan_history": [],
-      "scan_count": 0,
-      "next_scan": "2026-10-31T15:05:25.769981+00:00",
+      "scan_history": [
+        {
+          "time": "2026-10-31T18:58:59.061276+00:00",
+          "result": "no_poc",
+          "scan_number": 1
+        }
+      ],
+      "scan_count": 1,
+      "next_scan": "2026-10-31T20:05:25.769981+00:00",
       "status": "active"
     },
     {
