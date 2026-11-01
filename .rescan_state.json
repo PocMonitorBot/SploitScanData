@@ -395,10 +395,15 @@
           "time": "2026-10-30T21:19:07.239582+00:00",
           "result": "no_poc",
           "scan_number": 3
+        },
+        {
+          "time": "2026-11-01T20:02:42.912159+00:00",
+          "result": "no_poc",
+          "scan_number": 4
         }
       ],
-      "scan_count": 3,
-      "next_scan": "2026-11-01T20:00:57.313656+00:00",
+      "scan_count": 4,
+      "next_scan": "2026-11-05T20:00:57.313656+00:00",
       "status": "active"
     },
     {
@@ -419,10 +424,15 @@
           "time": "2026-10-30T21:19:36.606833+00:00",
           "result": "no_poc",
           "scan_number": 3
+        },
+        {
+          "time": "2026-11-01T20:02:45.313720+00:00",
+          "result": "no_poc",
+          "scan_number": 4
         }
       ],
-      "scan_count": 3,
-      "next_scan": "2026-11-01T20:01:17.183139+00:00",
+      "scan_count": 4,
+      "next_scan": "2026-11-05T20:01:17.183139+00:00",
       "status": "active"
     },
     {
@@ -443,10 +453,15 @@
           "time": "2026-10-30T21:19:48.022123+00:00",
           "result": "no_poc",
           "scan_number": 3
+        },
+        {
+          "time": "2026-11-01T20:02:47.978826+00:00",
+          "result": "no_poc",
+          "scan_number": 4
         }
       ],
-      "scan_count": 3,
-      "next_scan": "2026-11-01T20:01:23.263191+00:00",
+      "scan_count": 4,
+      "next_scan": "2026-11-05T20:01:23.263191+00:00",
       "status": "active"
     },
     {
@@ -467,10 +482,15 @@
           "time": "2026-10-30T21:19:50.714178+00:00",
           "result": "no_poc",
           "scan_number": 3
+        },
+        {
+          "time": "2026-11-01T20:02:49.723865+00:00",
+          "result": "no_poc",
+          "scan_number": 4
         }
       ],
-      "scan_count": 3,
-      "next_scan": "2026-11-01T20:01:27.002774+00:00",
+      "scan_count": 4,
+      "next_scan": "2026-11-05T20:01:27.002774+00:00",
       "status": "active"
     },
     {
@@ -491,10 +511,15 @@
           "time": "2026-10-30T21:19:54.781336+00:00",
           "result": "no_poc",
           "scan_number": 3
+        },
+        {
+          "time": "2026-11-01T20:02:51.525714+00:00",
+          "result": "no_poc",
+          "scan_number": 4
         }
       ],
-      "scan_count": 3,
-      "next_scan": "2026-11-01T20:01:30.861218+00:00",
+      "scan_count": 4,
+      "next_scan": "2026-11-05T20:01:30.861218+00:00",
       "status": "active"
     },
     {
@@ -515,10 +540,15 @@
           "time": "2026-10-30T21:19:56.224920+00:00",
           "result": "no_poc",
           "scan_number": 3
+        },
+        {
+          "time": "2026-11-01T20:02:53.824840+00:00",
+          "result": "no_poc",
+          "scan_number": 4
         }
       ],
-      "scan_count": 3,
-      "next_scan": "2026-11-01T20:01:34.190810+00:00",
+      "scan_count": 4,
+      "next_scan": "2026-11-05T20:01:34.190810+00:00",
       "status": "active"
     },
     {
