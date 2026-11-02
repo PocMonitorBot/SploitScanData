@@ -569,10 +569,15 @@
           "time": "2026-10-31T14:05:32.872694+00:00",
           "result": "no_poc",
           "scan_number": 3
+        },
+        {
+          "time": "2026-11-02T11:54:10.380172+00:00",
+          "result": "no_poc",
+          "scan_number": 4
         }
       ],
-      "scan_count": 3,
-      "next_scan": "2026-11-02T10:38:21.790345+00:00",
+      "scan_count": 4,
+      "next_scan": "2026-11-06T10:38:21.790345+00:00",
       "status": "active"
     },
     {
@@ -645,6 +650,54 @@
       ],
       "scan_count": 3,
       "next_scan": "2026-11-03T14:05:25.769981+00:00",
+      "status": "active"
+    },
+    {
+      "cve_id": "CVE-2024-2372",
+      "first_seen": "2026-11-02T11:53:52.116732+00:00",
+      "scan_history": [],
+      "scan_count": 0,
+      "next_scan": "2026-11-02T12:53:52.116732+00:00",
+      "status": "active"
+    },
+    {
+      "cve_id": "CVE-2024-5617",
+      "first_seen": "2026-11-02T11:53:55.689213+00:00",
+      "scan_history": [],
+      "scan_count": 0,
+      "next_scan": "2026-11-02T12:53:55.689213+00:00",
+      "status": "active"
+    },
+    {
+      "cve_id": "CVE-2024-7075",
+      "first_seen": "2026-11-02T11:53:59.347316+00:00",
+      "scan_history": [],
+      "scan_count": 0,
+      "next_scan": "2026-11-02T12:53:59.347316+00:00",
+      "status": "active"
+    },
+    {
+      "cve_id": "CVE-2024-9517",
+      "first_seen": "2026-11-02T11:54:04.745191+00:00",
+      "scan_history": [],
+      "scan_count": 0,
+      "next_scan": "2026-11-02T12:54:04.745191+00:00",
+      "status": "active"
+    },
+    {
+      "cve_id": "CVE-2026-2613",
+      "first_seen": "2026-11-02T11:54:08.248174+00:00",
+      "scan_history": [],
+      "scan_count": 0,
+      "next_scan": "2026-11-02T12:54:08.248174+00:00",
+      "status": "active"
+    },
+    {
+      "cve_id": "CVE-2026-8923",
+      "first_seen": "2026-11-02T11:54:14.347112+00:00",
+      "scan_history": [],
+      "scan_count": 0,
+      "next_scan": "2026-11-02T12:54:14.347112+00:00",
       "status": "active"
     },
     {
