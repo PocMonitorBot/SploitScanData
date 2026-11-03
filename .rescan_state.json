@@ -766,10 +766,15 @@
           "time": "2026-11-03T11:32:39.001792+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-03T23:53:13.222895+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-03T21:08:11.812717+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-05T21:08:11.812717+00:00",
       "status": "active"
     },
     {
@@ -780,10 +785,15 @@
           "time": "2026-11-03T18:56:20.772270+00:00",
           "result": "no_poc",
           "scan_number": 1
+        },
+        {
+          "time": "2026-11-03T23:53:03.057486+00:00",
+          "result": "no_poc",
+          "scan_number": 2
         }
       ],
-      "scan_count": 1,
-      "next_scan": "2026-11-03T17:32:26.676232+00:00",
+      "scan_count": 2,
+      "next_scan": "2026-11-04T11:32:26.676232+00:00",
       "status": "active"
     },
     {
@@ -794,10 +804,15 @@
           "time": "2026-11-03T18:56:24.312565+00:00",
           "result": "no_poc",
           "scan_number": 1
+        },
+        {
+          "time": "2026-11-03T23:53:07.143371+00:00",
+          "result": "no_poc",
+          "scan_number": 2
         }
       ],
-      "scan_count": 1,
-      "next_scan": "2026-11-03T17:32:31.210291+00:00",
+      "scan_count": 2,
+      "next_scan": "2026-11-04T11:32:31.210291+00:00",
       "status": "active"
     },
     {
@@ -808,10 +823,15 @@
           "time": "2026-11-03T18:56:43.381122+00:00",
           "result": "no_poc",
           "scan_number": 1
+        },
+        {
+          "time": "2026-11-03T23:53:14.982060+00:00",
+          "result": "no_poc",
+          "scan_number": 2
         }
       ],
-      "scan_count": 1,
-      "next_scan": "2026-11-03T17:32:43.512680+00:00",
+      "scan_count": 2,
+      "next_scan": "2026-11-04T11:32:43.512680+00:00",
       "status": "active"
     },
     {
