@@ -910,6 +910,14 @@
       "status": "active"
     },
     {
+      "cve_id": "CVE-2026-9601",
+      "first_seen": "2026-11-07T08:04:52.385839+00:00",
+      "scan_history": [],
+      "scan_count": 0,
+      "next_scan": "2026-11-07T09:04:52.385839+00:00",
+      "status": "active"
+    },
+    {
       "cve_id": "CVE-2025-8574",
       "first_seen": "2026-10-30T21:19:32.688221+00:00",
       "scan_history": [
