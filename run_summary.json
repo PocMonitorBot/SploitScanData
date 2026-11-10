@@ -21,13 +21,13 @@
     }
   },
   "monitor-cvelist": {
-    "timestamp": "2026-11-10T16:52:40.843954+00:00",
-    "new_cves": 0,
-    "modified_refreshed": 21,
-    "rescanned": 6,
-    "processed": 21,
-    "skipped": 6,
+    "timestamp": "2026-11-10T22:09:08.150385+00:00",
+    "new_cves": 7,
+    "modified_refreshed": 2,
+    "rescanned": 3,
+    "processed": 9,
+    "skipped": 3,
     "failed": 0,
-    "last_commit": "1b667d4a94237fa9b535784639941499fd8e996e"
+    "last_commit": "5f05eb4df7fc374a7400f5d03497fdf07fc28788"
   }
 }
