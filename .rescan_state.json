@@ -1,35 +1,6 @@
 {
   "rescan_queue": [
     {
-      "cve_id": "CVE-2026-0053",
-      "first_seen": "2026-11-02T21:08:11.812717+00:00",
-      "scan_history": [
-        {
-          "time": "2026-11-03T03:14:18.917728+00:00",
-          "result": "no_poc",
-          "scan_number": 1
-        },
-        {
-          "time": "2026-11-03T11:32:39.001792+00:00",
-          "result": "no_poc",
-          "scan_number": 2
-        },
-        {
-          "time": "2026-11-03T23:53:13.222895+00:00",
-          "result": "no_poc",
-          "scan_number": 3
-        },
-        {
-          "time": "2026-11-05T21:48:48.271189+00:00",
-          "result": "no_poc",
-          "scan_number": 4
-        }
-      ],
-      "scan_count": 4,
-      "next_scan": "2026-11-09T21:08:11.812717+00:00",
-      "status": "active"
-    },
-    {
       "cve_id": "CVE-2025-1397",
       "first_seen": "2026-11-03T11:32:26.676232+00:00",
       "scan_history": [
@@ -902,10 +873,15 @@
           "time": "2026-11-09T07:30:34.543904+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-10T01:14:32.176105+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-09T20:58:00.602027+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-11T20:58:00.602027+00:00",
       "status": "active"
     },
     {
@@ -921,10 +897,15 @@
           "time": "2026-11-09T07:30:36.493855+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-10T01:14:34.115737+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-09T20:58:04.760100+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-11T20:58:04.760100+00:00",
       "status": "active"
     },
     {
@@ -940,10 +921,15 @@
           "time": "2026-11-09T07:30:38.434156+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-10T01:14:36.209666+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-09T20:58:08.113272+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-11T20:58:08.113272+00:00",
       "status": "active"
     },
     {
@@ -959,10 +945,15 @@
           "time": "2026-11-09T07:30:40.341854+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-10T01:14:38.036330+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-09T20:58:14.216279+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-11T20:58:14.216279+00:00",
       "status": "active"
     },
     {
@@ -978,10 +969,15 @@
           "time": "2026-11-09T07:30:42.430579+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-10T01:14:39.752573+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-09T20:58:17.635607+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-11T20:58:17.635607+00:00",
       "status": "active"
     },
     {
@@ -997,10 +993,15 @@
           "time": "2026-11-09T07:30:44.748586+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-10T01:14:41.688516+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-09T20:58:21.105570+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-11T20:58:21.105570+00:00",
       "status": "active"
     },
     {
@@ -1016,10 +1017,15 @@
           "time": "2026-11-09T07:30:46.912055+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-10T01:14:43.473823+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-09T20:58:24.404419+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-11T20:58:24.404419+00:00",
       "status": "active"
     },
     {
@@ -1035,10 +1041,15 @@
           "time": "2026-11-09T07:30:48.763264+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-10T01:14:45.175473+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-09T20:58:28.490974+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-11T20:58:28.490974+00:00",
       "status": "active"
     },
     {
@@ -1054,11 +1065,50 @@
           "time": "2026-11-09T07:30:50.817972+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-10T01:14:46.939195+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-09T20:58:31.318380+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-11T20:58:31.318380+00:00",
       "status": "active"
+    },
+    {
+      "cve_id": "CVE-2026-0053",
+      "first_seen": "2026-11-02T21:08:11.812717+00:00",
+      "scan_history": [
+        {
+          "time": "2026-11-03T03:14:18.917728+00:00",
+          "result": "no_poc",
+          "scan_number": 1
+        },
+        {
+          "time": "2026-11-03T11:32:39.001792+00:00",
+          "result": "no_poc",
+          "scan_number": 2
+        },
+        {
+          "time": "2026-11-03T23:53:13.222895+00:00",
+          "result": "no_poc",
+          "scan_number": 3
+        },
+        {
+          "time": "2026-11-05T21:48:48.271189+00:00",
+          "result": "no_poc",
+          "scan_number": 4
+        },
+        {
+          "time": "2026-11-10T01:14:19.784837+00:00",
+          "result": "no_poc",
+          "scan_number": 5
+        }
+      ],
+      "scan_count": 5,
+      "next_scan": null,
+      "status": "graduated"
     },
     {
       "cve_id": "CVE-2024-2372",
