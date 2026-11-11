@@ -1002,10 +1002,15 @@
           "time": "2026-11-10T22:09:03.831204+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-11T10:05:34.670327+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-11T09:04:06.546247+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-13T09:04:06.546247+00:00",
       "status": "active"
     },
     {
@@ -1021,10 +1026,15 @@
           "time": "2026-11-10T22:09:05.820361+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-11T10:05:36.437908+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-11T09:04:12.459473+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-13T09:04:12.459473+00:00",
       "status": "active"
     },
     {
@@ -1040,10 +1050,15 @@
           "time": "2026-11-10T22:09:08.137989+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-11T10:05:38.366869+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-11T09:04:16.324458+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-13T09:04:16.324458+00:00",
       "status": "active"
     },
     {
@@ -1054,10 +1069,15 @@
           "time": "2026-11-11T02:29:18.577940+00:00",
           "result": "no_poc",
           "scan_number": 1
+        },
+        {
+          "time": "2026-11-11T10:05:12.107376+00:00",
+          "result": "no_poc",
+          "scan_number": 2
         }
       ],
-      "scan_count": 1,
-      "next_scan": "2026-11-11T04:08:42.225483+00:00",
+      "scan_count": 2,
+      "next_scan": "2026-11-11T22:08:42.225483+00:00",
       "status": "active"
     },
     {
@@ -1068,10 +1088,15 @@
           "time": "2026-11-11T02:29:24.544222+00:00",
           "result": "no_poc",
           "scan_number": 1
+        },
+        {
+          "time": "2026-11-11T10:05:15.887040+00:00",
+          "result": "no_poc",
+          "scan_number": 2
         }
       ],
-      "scan_count": 1,
-      "next_scan": "2026-11-11T04:08:46.072052+00:00",
+      "scan_count": 2,
+      "next_scan": "2026-11-11T22:08:46.072052+00:00",
       "status": "active"
     },
     {
@@ -1082,10 +1107,15 @@
           "time": "2026-11-11T02:29:26.313142+00:00",
           "result": "no_poc",
           "scan_number": 1
+        },
+        {
+          "time": "2026-11-11T10:05:17.943008+00:00",
+          "result": "no_poc",
+          "scan_number": 2
         }
       ],
-      "scan_count": 1,
-      "next_scan": "2026-11-11T04:08:49.017834+00:00",
+      "scan_count": 2,
+      "next_scan": "2026-11-11T22:08:49.017834+00:00",
       "status": "active"
     },
     {
@@ -1096,10 +1126,15 @@
           "time": "2026-11-11T02:29:28.544339+00:00",
           "result": "no_poc",
           "scan_number": 1
+        },
+        {
+          "time": "2026-11-11T10:05:20.254306+00:00",
+          "result": "no_poc",
+          "scan_number": 2
         }
       ],
-      "scan_count": 1,
-      "next_scan": "2026-11-11T04:08:51.891446+00:00",
+      "scan_count": 2,
+      "next_scan": "2026-11-11T22:08:51.891446+00:00",
       "status": "active"
     },
     {
@@ -1110,10 +1145,15 @@
           "time": "2026-11-11T02:29:30.276743+00:00",
           "result": "no_poc",
           "scan_number": 1
+        },
+        {
+          "time": "2026-11-11T10:05:22.117848+00:00",
+          "result": "no_poc",
+          "scan_number": 2
         }
       ],
-      "scan_count": 1,
-      "next_scan": "2026-11-11T04:08:55.154400+00:00",
+      "scan_count": 2,
+      "next_scan": "2026-11-11T22:08:55.154400+00:00",
       "status": "active"
     },
     {
@@ -1124,10 +1164,15 @@
           "time": "2026-11-11T02:29:32.467862+00:00",
           "result": "no_poc",
           "scan_number": 1
+        },
+        {
+          "time": "2026-11-11T10:05:24.452571+00:00",
+          "result": "no_poc",
+          "scan_number": 2
         }
       ],
-      "scan_count": 1,
-      "next_scan": "2026-11-11T04:08:58.285779+00:00",
+      "scan_count": 2,
+      "next_scan": "2026-11-11T22:08:58.285779+00:00",
       "status": "active"
     },
     {
@@ -1138,50 +1183,85 @@
           "time": "2026-11-11T02:29:34.349521+00:00",
           "result": "no_poc",
           "scan_number": 1
+        },
+        {
+          "time": "2026-11-11T10:05:26.950480+00:00",
+          "result": "no_poc",
+          "scan_number": 2
         }
       ],
-      "scan_count": 1,
-      "next_scan": "2026-11-11T04:09:01.770409+00:00",
+      "scan_count": 2,
+      "next_scan": "2026-11-11T22:09:01.770409+00:00",
       "status": "active"
     },
     {
       "cve_id": "CVE-2025-0008",
       "first_seen": "2026-11-11T02:29:16.136729+00:00",
-      "scan_history": [],
-      "scan_count": 0,
-      "next_scan": "2026-11-11T03:29:16.136729+00:00",
+      "scan_history": [
+        {
+          "time": "2026-11-11T10:05:08.520777+00:00",
+          "result": "no_poc",
+          "scan_number": 1
+        }
+      ],
+      "scan_count": 1,
+      "next_scan": "2026-11-11T08:29:16.136729+00:00",
       "status": "active"
     },
     {
       "cve_id": "CVE-2026-0003",
       "first_seen": "2026-11-11T02:29:22.049052+00:00",
-      "scan_history": [],
-      "scan_count": 0,
-      "next_scan": "2026-11-11T03:29:22.049052+00:00",
+      "scan_history": [
+        {
+          "time": "2026-11-11T10:05:14.059391+00:00",
+          "result": "no_poc",
+          "scan_number": 1
+        }
+      ],
+      "scan_count": 1,
+      "next_scan": "2026-11-11T08:29:22.049052+00:00",
       "status": "active"
     },
     {
       "cve_id": "CVE-2026-0435",
       "first_seen": "2026-11-11T02:29:38.043284+00:00",
-      "scan_history": [],
-      "scan_count": 0,
-      "next_scan": "2026-11-11T03:29:38.043284+00:00",
+      "scan_history": [
+        {
+          "time": "2026-11-11T10:05:28.985781+00:00",
+          "result": "no_poc",
+          "scan_number": 1
+        }
+      ],
+      "scan_count": 1,
+      "next_scan": "2026-11-11T08:29:38.043284+00:00",
       "status": "active"
     },
     {
       "cve_id": "CVE-2026-0454",
       "first_seen": "2026-11-11T02:29:40.567009+00:00",
-      "scan_history": [],
-      "scan_count": 0,
-      "next_scan": "2026-11-11T03:29:40.567009+00:00",
+      "scan_history": [
+        {
+          "time": "2026-11-11T10:05:30.806172+00:00",
+          "result": "no_poc",
+          "scan_number": 1
+        }
+      ],
+      "scan_count": 1,
+      "next_scan": "2026-11-11T08:29:40.567009+00:00",
       "status": "active"
     },
     {
       "cve_id": "CVE-2026-0480",
       "first_seen": "2026-11-11T02:29:43.706046+00:00",
-      "scan_history": [],
-      "scan_count": 0,
-      "next_scan": "2026-11-11T03:29:43.706046+00:00",
+      "scan_history": [
+        {
+          "time": "2026-11-11T10:05:32.847749+00:00",
+          "result": "no_poc",
+          "scan_number": 1
+        }
+      ],
+      "scan_count": 1,
+      "next_scan": "2026-11-11T08:29:43.706046+00:00",
       "status": "active"
     },
     {
