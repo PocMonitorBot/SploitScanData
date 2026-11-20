@@ -355,10 +355,15 @@
           "time": "2026-11-20T01:35:30.844819+00:00",
           "result": "no_poc",
           "scan_number": 2
+        },
+        {
+          "time": "2026-11-20T18:13:36.147276+00:00",
+          "result": "no_poc",
+          "scan_number": 3
         }
       ],
-      "scan_count": 2,
-      "next_scan": "2026-11-20T11:00:29.027574+00:00",
+      "scan_count": 3,
+      "next_scan": "2026-11-22T11:00:29.027574+00:00",
       "status": "active"
     },
     {
