@@ -322,10 +322,15 @@
           "time": "2026-11-21T21:23:44.597190+00:00",
           "result": "no_poc",
           "scan_number": 1
+        },
+        {
+          "time": "2026-11-22T01:52:21.108943+00:00",
+          "result": "no_poc",
+          "scan_number": 2
         }
       ],
-      "scan_count": 1,
-      "next_scan": "2026-11-21T21:52:19.916235+00:00",
+      "scan_count": 2,
+      "next_scan": "2026-11-22T15:52:19.916235+00:00",
       "status": "active"
     },
     {
