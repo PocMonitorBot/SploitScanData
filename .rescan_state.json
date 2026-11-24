@@ -257,6 +257,14 @@
       "status": "active"
     },
     {
+      "cve_id": "CVE-2026-9790",
+      "first_seen": "2026-11-24T11:55:13.849036+00:00",
+      "scan_history": [],
+      "scan_count": 0,
+      "next_scan": "2026-11-24T12:55:13.849036+00:00",
+      "status": "active"
+    },
+    {
       "cve_id": "CVE-2025-5809",
       "first_seen": "2026-11-16T22:45:00.898635+00:00",
       "scan_history": [
