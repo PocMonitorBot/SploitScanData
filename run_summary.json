@@ -5,18 +5,18 @@
   "updated": 7,
   "failed": 0,
   "monitor-poc": {
-    "timestamp": "2026-11-25T00:56:35.429433+00:00",
-    "changed_cves": 4,
-    "updated": 4,
+    "timestamp": "2026-11-25T10:00:27.694712+00:00",
+    "changed_cves": 77,
+    "updated": 77,
     "failed": 0,
-    "github_search_cves": 3,
+    "github_search_cves": 0,
     "trigger_breakdown": {
-      "poc_monitor": 2,
+      "poc_monitor": 48,
       "exploitdb": 0,
-      "nuclei": 0,
+      "nuclei": 13,
       "metasploit": 0,
-      "cisa_kev": 3,
-      "packetstorm": 0,
+      "cisa_kev": 0,
+      "packetstorm": 16,
       "epss_spike": 0
     }
   },
